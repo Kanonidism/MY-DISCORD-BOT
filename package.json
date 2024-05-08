@@ -1,0 +1,16 @@
+{
+  "name": "myyyyyyyyyyyyyy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kappa",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.6.0",
+    "discord.js": "^13.17.1",
+    "quick.db": "^9.1.7"
+  }
+}
